@@ -1,2 +1,2 @@
-add_lunch_combo omni_gts210ltexx-eng
-add_lunch_combo omni_gts210ltexx-userdebug
+add_lunch_combo omni_gts28ltexx-eng
+add_lunch_combo omni_gts28ltexx-userdebug
