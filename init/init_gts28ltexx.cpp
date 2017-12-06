@@ -52,9 +52,9 @@ void init_variant_properties() {
 
     property_get("ro.bootloader", bootloader, NULL);
 
-    if (strstr(bootloader, "T815")) {
-        property_set("ro.product.model", "SM-T815");
-        property_set("ro.product.device", "gts210ltexx");
+    if (strstr(bootloader, "T715")) {
+        property_set("ro.product.model", "SM-T715");
+        property_set("ro.product.device", "gts28ltexx");
     } else {
         INFO("%s: unexcepted bootloader id!\n", bootloader, devicename);
     }
