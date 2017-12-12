@@ -1,4 +1,4 @@
-## TWRP device tree for Samsung Galaxy Tab S2 8.0 (LTE)
+## TWRP device tree for Samsung Galaxy Tab S2 8.0 2015 (LTE)
 ## gts28ltexx
 
 Add to `.repo/local_manifests/gts28ltexx.xml`:
